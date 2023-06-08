@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940306583547",
+    "firebase_url": "https://spacechat-41a38-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "spacechat-41a38",
+    "storage_bucket": "spacechat-41a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940306583547:android:ed5eaae965d134b24b055e",
+        "android_client_info": {
+          "package_name": "com.example.space_chat_v"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940306583547-4npg7rckip2fta9emhv6up9toaa32g3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0yaypK4ySn7_P332fGNiYm687h4tsIrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940306583547-4npg7rckip2fta9emhv6up9toaa32g3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940306583547-67dgvicdj5ghkvqq55fnc1i2vn42kb72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spaceChatv.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
