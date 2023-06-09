@@ -1,6 +1,10 @@
 # space_chat
 
 A new Flutter project.
+Shevchuck Vladyslav Stanislavovich
+shevchuk.1.vladyslav.upwork@gmail.com
+about 120 hours
+
 
 ## Getting Started
 
